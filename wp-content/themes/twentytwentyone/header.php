@@ -20,6 +20,8 @@
 	<?php wp_head(); ?>
 </head>
 
+<h1>Hallo wereld!</h1>
+
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
